@@ -1,17 +1,21 @@
 {
+  "name": "Base Snake Final",
+  "description": "Modern Snake oyunu - Next.js, TypeScript, Tailwind CSS ve Framer Motion ile geliştirilmiş",
+  "iconUrl": "https://base-snake-final-kkm74t0cu-ygtp2424gmailcoms-projects.vercel.app/icon.png",
+  "appUrl": "https://base-snake-final-kkm74t0cu-ygtp2424gmailcoms-projects.vercel.app",
   "accountAssociation": {
     "header": "x-farcaster-verify",
     "payload": "accountAddress"
   },
   "frame": {
     "version": "next",
-    "imageUrl": "https://base-snake-final-zlufz9vgu-ygtp2424gmailcoms-projects.vercel.app/og-image.png",
+    "imageUrl": "https://base-snake-final-kkm74t0cu-ygtp2424gmailcoms-projects.vercel.app/og-image.png",
     "button": {
       "title": "Play Snake Game",
       "action": {
         "type": "launch_frame",
         "name": "snake_game",
-        "url": "https://base-snake-final-zlufz9vgu-ygtp2424gmailcoms-projects.vercel.app"
+        "url": "https://base-snake-final-kkm74t0cu-ygtp2424gmailcoms-projects.vercel.app"
       }
     }
   }
