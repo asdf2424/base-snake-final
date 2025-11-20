@@ -1,0 +1,19 @@
+{
+  "accountAssociation": {
+    "header": "x-farcaster-verify",
+    "payload": "accountAddress"
+  },
+  "frame": {
+    "version": "next",
+    "imageUrl": "https://base-snake-final-zlufz9vgu-ygtp2424gmailcoms-projects.vercel.app/og-image.png",
+    "button": {
+      "title": "Play Snake Game",
+      "action": {
+        "type": "launch_frame",
+        "name": "snake_game",
+        "url": "https://base-snake-final-zlufz9vgu-ygtp2424gmailcoms-projects.vercel.app"
+      }
+    }
+  }
+}
+
